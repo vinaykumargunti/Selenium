@@ -18,7 +18,7 @@ public class Test123 {
 		driver.get("https://www.google.com/");
 		
 		Assert.assertTrue(driver.getTitle().equalsIgnoreCase("Google"));
-		driver.findElement(By.xpath(""));
+		driver.findElement(By.xpath("//input[@name='q']")).sendKeys("vinaykumar gunti");;
 		driver.quit();
 	}
 }
