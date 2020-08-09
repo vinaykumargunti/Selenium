@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-06T03:33:23 IST" name="Default suite" finished-at="2020-08-06T03:33:27 IST" duration-ms="3993">
+  <suite started-at="2020-08-09T17:23:48 IST" name="Default suite" finished-at="2020-08-09T17:23:53 IST" duration-ms="5586">
     <groups>
     </groups>
-    <test started-at="2020-08-06T03:33:23 IST" name="Default test" finished-at="2020-08-06T03:33:27 IST" duration-ms="3993">
+    <test started-at="2020-08-09T17:23:48 IST" name="Default test" finished-at="2020-08-09T17:23:53 IST" duration-ms="5586">
       <class name="com.MMT.qa.testcases.FlightsHomePageMMTTest">
-        <test-method signature="validateCitySelection()[pri:1, instance:com.MMT.qa.testcases.FlightsHomePageMMTTest@66fdec9]" started-at="2020-08-06T03:33:23 IST" name="validateCitySelection" finished-at="2020-08-06T03:33:26 IST" duration-ms="2783" status="PASS">
+        <test-method signature="validateCitySelection()[pri:1, instance:com.MMT.qa.testcases.FlightsHomePageMMTTest@549949be]" started-at="2020-08-09T17:23:48 IST" name="validateCitySelection" finished-at="2020-08-09T17:23:52 IST" duration-ms="4352" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateCitySelection -->
-        <test-method signature="validateDateSelection()[pri:2, instance:com.MMT.qa.testcases.FlightsHomePageMMTTest@66fdec9]" started-at="2020-08-06T03:33:26 IST" name="validateDateSelection" finished-at="2020-08-06T03:33:26 IST" duration-ms="256" status="PASS">
+        <test-method signature="validateDateSelection()[pri:2, instance:com.MMT.qa.testcases.FlightsHomePageMMTTest@549949be]" started-at="2020-08-09T17:23:52 IST" name="validateDateSelection" finished-at="2020-08-09T17:23:53 IST" duration-ms="496" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateDateSelection -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.MMT.qa.testcases.FlightsHomePageMMTTest@66fdec9]" started-at="2020-08-06T03:33:26 IST" name="tearDown" finished-at="2020-08-06T03:33:27 IST" duration-ms="877" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.MMT.qa.testcases.FlightsHomePageMMTTest@549949be]" started-at="2020-08-09T17:23:53 IST" name="tearDown" finished-at="2020-08-09T17:23:53 IST" duration-ms="698" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
