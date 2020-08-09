@@ -30,11 +30,11 @@ public class ExtentReportDemo3 {
 	@BeforeMethod
 	public void setup() {
 
-		ExtentHtmlReporter reporter = new ExtentHtmlReporter("./Report/report.html");
+		ExtentHtmlReporter reporter = new ExtentHtmlReporter("./Report/"+System.currentTimeMillis()+"_report.html");
 		extent = new ExtentReports();
 		extent.attachReporter(reporter);
 		
-
+		
 	}
 
 	@Test
