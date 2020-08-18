@@ -8,3 +8,55 @@
 2020-08-09 05:12:45,569 [main] INFO Google - Url opened
 2020-08-09 05:12:46,331 [main] INFO Google - keyword type
 2020-08-09 05:12:46,333 [main] INFO Google - Vinay learn log4j
+2020-08-18 17:54:13,257 [main] INFO WhatsApp - Browser Opened
+2020-08-18 17:54:13,918 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 17:54:55,069 [main] INFO WhatsApp - Url opened
+2020-08-18 17:55:31,881 [main] INFO WhatsApp - Scanned QR code and then press Enter!
+2020-08-18 17:55:42,367 [main] INFO WhatsApp - Enter Any Number to Proceed
+2020-08-18 17:55:42,369 [main] INFO WhatsApp - Logged into the WatsAppWeb
+2020-08-18 17:58:06,760 [main] INFO WhatsApp - Browser Opened
+2020-08-18 17:58:06,771 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 17:59:10,195 [main] INFO WhatsApp - Url opened
+2020-08-18 17:59:23,705 [main] INFO WhatsApp - Scanned QR code and then press Enter!
+2020-08-18 17:59:47,216 [main] INFO WhatsApp - Enter Any Number to Proceed
+2020-08-18 17:59:47,217 [main] INFO WhatsApp - Logged into the WatsAppWeb
+2020-08-18 17:59:53,874 [main] INFO WhatsApp - Trying the reach out to contact Sunny!
+2020-08-18 18:04:25,899 [main] INFO WhatsApp - Browser Opened
+2020-08-18 18:04:25,909 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 18:04:39,419 [main] INFO WhatsApp - Url opened
+2020-08-18 18:04:47,852 [main] INFO WhatsApp - Scanned QR code and then press Enter!
+2020-08-18 18:05:59,381 [main] INFO WhatsApp - Enter Any Number to Proceed
+2020-08-18 18:05:59,382 [main] INFO WhatsApp - Logged into the WatsAppWeb
+2020-08-18 18:06:06,492 [main] INFO WhatsApp - Trying the reach out to contact Sunny!
+2020-08-18 18:13:38,768 [main] INFO WhatsApp - Browser Opened
+2020-08-18 18:13:38,780 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 18:13:56,999 [main] INFO WhatsApp - Url opened
+2020-08-18 18:14:09,779 [main] INFO WhatsApp - Scanned QR code and then press Enter!
+2020-08-18 18:14:34,103 [main] INFO WhatsApp - Enter Any Number to Proceed
+2020-08-18 18:14:34,104 [main] INFO WhatsApp - Logged into the WatsAppWeb
+2020-08-18 18:14:40,899 [main] INFO WhatsApp - Trying the reach out to contact Sunny!
+2020-08-18 18:17:21,614 [main] INFO WhatsApp - Browser Opened
+2020-08-18 18:17:21,636 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 18:17:53,495 [main] INFO WhatsApp - Browser Opened
+2020-08-18 18:17:53,506 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 18:18:07,613 [main] INFO WhatsApp - Url opened
+2020-08-18 18:18:09,617 [main] INFO WhatsApp - Scanned QR code and then press Enter!
+2020-08-18 18:18:09,651 [main] INFO WhatsApp - Enter Any Number to Proceed
+2020-08-18 18:18:36,912 [main] INFO WhatsApp - Logged into the WatsAppWeb
+2020-08-18 18:18:43,793 [main] INFO WhatsApp - Trying the reach out to contact Sunny!
+2020-08-18 18:21:49,557 [main] INFO WhatsApp - Browser Opened
+2020-08-18 18:21:49,567 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 18:21:56,317 [main] INFO WhatsApp - Url opened
+2020-08-18 18:21:58,320 [main] INFO WhatsApp - Scanned QR code and then press Enter!
+2020-08-18 18:21:58,331 [main] INFO WhatsApp - Enter Any Number to Proceed
+2020-08-18 18:22:11,888 [main] INFO WhatsApp - Logged into the WatsAppWeb
+2020-08-18 18:22:18,454 [main] INFO WhatsApp - Trying the reach out to contact Sunny!
+2020-08-18 18:23:39,636 [main] INFO WhatsApp - Browser Opened
+2020-08-18 18:23:39,647 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 18:23:48,802 [main] INFO WhatsApp - Url opened
+2020-08-18 18:23:50,804 [main] INFO WhatsApp - Scanned QR code and then press Enter!
+2020-08-18 18:23:50,834 [main] INFO WhatsApp - Enter Any Number to Proceed
+2020-08-18 18:24:15,591 [main] INFO WhatsApp - Logged into the WatsAppWeb
+2020-08-18 18:24:32,271 [main] INFO WhatsApp - Trying the reach out to contact Sunny!
+2020-08-18 18:24:35,289 [main] INFO WhatsApp - Trying to Send the message to Sunny!
+2020-08-18 18:24:38,920 [main] INFO WhatsApp - Adding a Heart Smiley:
