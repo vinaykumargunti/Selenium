@@ -45,9 +45,9 @@ public class WhatsApp {
 		Thread.sleep(2000);
 		logger.info("Scanned QR code and then press Enter!");
 
-		Scanner sc = new Scanner(System.in);
+		//Scanner sc = new Scanner(System.in);
 		logger.info("Enter Any Number to Proceed");
-		int n = sc.nextInt();
+		//int n = sc.nextInt();
 		logger.info("Logged into the WatsAppWeb");
 		WebElement input_xpath = driver.findElement(By.xpath("//div[contains(text(),'Search or start new chat')]"));
 
