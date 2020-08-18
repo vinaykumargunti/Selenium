@@ -60,3 +60,10 @@
 2020-08-18 18:24:32,271 [main] INFO WhatsApp - Trying the reach out to contact Sunny!
 2020-08-18 18:24:35,289 [main] INFO WhatsApp - Trying to Send the message to Sunny!
 2020-08-18 18:24:38,920 [main] INFO WhatsApp - Adding a Heart Smiley:
+2020-08-18 19:12:33,549 [main] INFO WhatsApp - Browser Opened
+2020-08-18 19:12:33,639 [main] INFO WhatsApp - Implicit wait given
+2020-08-18 19:12:46,920 [main] INFO WhatsApp - Url opened
+2020-08-18 19:12:48,923 [main] INFO WhatsApp - Scanned QR code and then press Enter!
+2020-08-18 19:12:48,923 [main] INFO WhatsApp - Enter Any Number to Proceed
+2020-08-18 19:12:48,924 [main] INFO WhatsApp - Logged into the WatsAppWeb
+2020-08-18 19:13:04,834 [main] INFO WhatsApp - Trying the reach out to contact Sunny!
