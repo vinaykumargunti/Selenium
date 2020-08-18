@@ -62,7 +62,7 @@ public class WhatsApp {
 		Actions act = new Actions(driver);
 		act.moveToElement(select_contact).click(select_contact).perform();
 		logger.info("Trying the reach out to contact Sunny!");
-		WebElement input_message = driver.findElement(By.xpath("//div[@class='_2FVVk _2UL8j']//div[@class='_3FRCZ copyable-text selectable-text']"));
+		WebElement input_message = driver.findElement(By.cssSelector("body.web:nth-child(2) div._347-w._2UMYL.app-wrapper-web.os-win div.h70RQ.two:nth-child(6) div._1-iDe.Wu52Z:nth-child(4) div._2WG1s footer._2vJ01:nth-child(7) div._3ee1T._1LkpH.copyable-area div._3uMse:nth-child(2) div._2FVVk._2UL8j > div._3FRCZ.copyable-text.selectable-text"));
 		//WebDriverWait myDynamicElement = new WebDriverWait(driver, 30);
         //myDynamicElement.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='_2FVVk _2UL8j']//div[@class='_3FRCZ copyable-text selectable-text']")));
 		
