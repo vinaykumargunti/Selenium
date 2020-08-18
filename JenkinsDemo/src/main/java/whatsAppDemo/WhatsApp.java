@@ -66,6 +66,7 @@ public class WhatsApp {
 		//WebDriverWait myDynamicElement = new WebDriverWait(driver, 30);
         //myDynamicElement.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='_2FVVk _2UL8j']//div[@class='_3FRCZ copyable-text selectable-text']")));
 		
+		
 		Thread.sleep(3000);
 		logger.info("Trying to Send the message to Sunny!");
 		input_message.sendKeys("Hi Sunny,i am selenium here send through Automation! Loving to work at ur service");
