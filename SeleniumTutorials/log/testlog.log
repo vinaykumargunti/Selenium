@@ -1,0 +1,331 @@
+2020-07-21 01:47:48,573 - Google -INFO - Browser Opened
+2020-07-21 01:47:48,587 - Google -INFO - Implicit wait given
+2020-07-21 01:47:53,269 - Google -INFO - Url opened
+2020-07-21 01:47:53,372 - Google -INFO - keyword type
+2020-07-21 01:47:53,372 - Google -INFO - Vinay learn log4j
+2020-07-22 01:00:49,496 - Google -INFO - Browser Opened
+2020-07-22 01:00:49,857 - Google -INFO - Implicit wait given
+2020-07-22 01:00:53,307 - Google -INFO - Url opened
+2020-07-22 01:00:53,411 - Google -INFO - keyword type
+2020-07-22 01:00:53,412 - Google -INFO - Vinay learn log4j
+2020-08-02 15:45:07,695 - RadioButtom -INFO - Driver intialized
+2020-08-02 15:53:10,204 - RadioButtom -INFO - Driver intialized
+2020-08-02 17:16:55,876 - RadioButtom -INFO - Driver intialized
+2020-08-02 17:21:12,598 - RadioButtom -INFO - Driver intialized
+2020-08-02 17:22:55,831 - RadioButtom -INFO - Driver intialized
+2020-08-02 17:28:32,073 - RadioButtom -INFO - Driver intialized
+2020-08-02 17:29:39,301 - RadioButtom -INFO - Driver intialized
+2020-08-02 17:33:09,951 - RadioButtom -INFO - Driver intialized
+2020-08-02 17:34:08,595 - RadioButtom -INFO - Driver intialized
+2020-08-02 17:35:21,359 - RadioButtom -INFO - Driver intialized
+2020-08-02 19:28:52,500 - ScreenShot -INFO - Driver intialized
+2020-08-02 19:40:15,814 - ScreenShot -INFO - Driver intialized
+2020-08-02 19:40:25,151 - ScreenShot -INFO - Taking ScreenShot
+2020-08-02 20:17:22,487 - Alert Window -INFO - Driver intialized
+2020-08-02 20:17:39,184 - Alert Window -INFO - Getting Alert Text Value
+2020-08-02 20:17:39,187 - Alert Window -INFO - Test Case Passed
+2020-08-02 20:17:39,217 - Alert Window -INFO - Accepting the Alert
+2020-08-02 20:18:40,071 - Alert Window -INFO - Driver intialized
+2020-08-02 20:18:53,881 - Alert Window -INFO - Getting Alert Text Value
+2020-08-02 20:18:53,883 - Alert Window -INFO - Test Case Passed
+2020-08-02 20:18:55,913 - Alert Window -INFO - Accepting the Alert
+2020-08-02 22:08:35,323 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 22:09:58,935 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 22:10:41,178 - Switching Between Iframes -INFO - finding the number of iframes in a webpage3
+2020-08-02 22:11:20,981 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 22:12:11,949 - Switching Between Iframes -INFO - finding the number of iframes in a webpage3
+2020-08-02 22:12:12,490 - Switching Between Iframes -INFO - switching to second frame of the webpage
+2020-08-02 22:12:19,010 - Switching Between Iframes -INFO - moving back to the default frame as we can't traverse between frames
+2020-08-02 22:12:32,054 - Switching Between Iframes -INFO - operating on the link after switching to the default frame
+2020-08-02 22:15:41,978 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 22:16:28,551 - Switching Between Iframes -INFO - finding the number of iframes in a webpage3
+2020-08-02 22:16:28,602 - Switching Between Iframes -INFO - switching to second frame of the webpage
+2020-08-02 22:16:31,314 - Switching Between Iframes -INFO - moving back to the default frame as we can't traverse between frames
+2020-08-02 22:16:40,734 - Switching Between Iframes -INFO - operating on the link after switching to the default frame
+2020-08-02 23:08:36,083 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:14:04,001 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:15:58,783 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:19:37,780 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:25:39,056 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:26:49,628 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:28:11,108 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:29:07,208 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:30:45,977 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:32:03,803 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:36:01,742 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:37:12,473 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:43:39,964 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:44:36,710 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:48:49,628 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:54:55,336 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:56:31,705 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:58:09,678 - Switching Between Iframes -INFO - Driver intialized
+2020-08-02 23:58:43,365 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 00:03:37,805 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 00:06:53,825 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 00:07:25,903 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 00:08:46,258 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 00:10:13,918 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 22:43:53,185 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 22:44:25,366 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 22:46:12,829 - Switching Between Iframes -INFO - Driver intialized
+2020-08-03 22:58:15,772 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 01:13:37,587 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 01:15:01,346 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 01:15:43,351 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 01:16:06,185 - Switching Between Iframes -INFO - trying to get the month from calender on redbusAug 2020
+2020-08-04 01:20:55,865 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 01:21:16,345 - Switching Between Iframes -INFO - trying to get the month from calender on redbusAug 2020
+2020-08-04 01:21:16,353 - Switching Between Iframes -INFO - Expected Month: Aug
+2020-08-04 01:21:16,375 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,383 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,390 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,397 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,403 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,409 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,415 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,420 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,428 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,435 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,440 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,446 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,452 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,458 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,464 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,472 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,477 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,483 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,489 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,495 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,501 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,507 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,513 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,518 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,523 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,529 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,534 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:21:16,539 - Switching Between Iframes -INFO - Date Expected [[FirefoxDriver: firefox on WINDOWS (b31ecaeb-a555-4a94-af8d-0f8866ffcea1)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 01:23:27,940 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 01:23:48,161 - Switching Between Iframes -INFO - trying to get the month from calender on redbusAug 2020
+2020-08-04 01:25:30,015 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 01:25:52,637 - Switching Between Iframes -INFO - trying to get the month from calender on redbusAug 2020
+2020-08-04 01:25:52,644 - Switching Between Iframes -INFO - Expected Month: Aug
+2020-08-04 01:25:52,817 - Switching Between Iframes -INFO - Date Expected 21
+2020-08-04 01:38:40,931 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 01:39:09,022 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 01:39:09,031 - Switching Between Iframes -INFO - Expected Month: Aug
+2020-08-04 01:39:09,212 - Switching Between Iframes -INFO - Date Expected 21
+2020-08-04 02:06:22,712 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 02:06:42,868 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 02:23:31,034 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 02:23:51,214 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 02:23:51,238 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 02:24:29,783 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 02:24:49,902 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 02:24:49,929 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 02:26:07,406 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 02:26:26,611 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 02:27:41,635 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 02:28:00,606 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 02:28:00,862 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 15:51:38,428 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 15:52:02,994 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 15:52:03,249 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 15:56:27,289 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 15:56:52,982 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 15:56:53,245 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:01:09,401 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:01:44,269 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:01:44,536 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:03:38,177 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:04:22,853 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:04:23,107 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:06:46,664 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:07:15,642 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:07:15,911 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:08:49,000 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:09:12,365 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:09:12,639 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:11:10,461 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:11:37,616 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:16:51,923 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:17:16,636 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:17:16,895 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:20:19,282 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:21:32,562 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:21:32,820 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:21:32,826 - Switching Between Iframes -INFO - Get the monthyear Sep 2020
+2020-08-04 16:26:11,198 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:26:37,677 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:26:37,948 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:26:37,954 - Switching Between Iframes -INFO - Get the monthyear Sep 2020
+2020-08-04 16:27:10,183 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:28:03,138 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:28:36,387 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:29:15,462 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:29:15,736 - Switching Between Iframes -INFO - Get the monthyear Sep 2020
+2020-08-04 16:30:29,925 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:31:09,109 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:31:14,197 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:31:35,227 - Switching Between Iframes -INFO - Get the monthyear Sep 2020
+2020-08-04 16:34:24,264 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:34:44,375 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:34:44,628 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:34:44,634 - Switching Between Iframes -INFO - Month and Year Sep : 2020
+2020-08-04 16:36:02,797 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:36:21,650 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 16:36:21,901 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Sep 2020
+2020-08-04 16:36:21,908 - Switching Between Iframes -INFO - Month and Year Sep : 2020
+2020-08-04 16:36:22,064 - Switching Between Iframes -INFO - Day Selected :[[FirefoxDriver: firefox on WINDOWS (50228da8-f604-4e1c-80bf-d03950c805fc)] -> xpath: .//*[@id='rb-calendar_onward_cal']/table/tbody/tr/td]
+2020-08-04 16:37:32,850 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 16:37:55,270 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 17:02:29,542 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 17:02:49,519 - Switching Between Iframes -INFO - trying to get the month from calender on redbus : Aug 2020
+2020-08-04 18:29:42,147 - Handling Mutliple Windows -INFO - Driver intialized
+2020-08-04 18:30:10,601 - Handling Mutliple Windows -INFO - Parent Window 8
+2020-08-04 19:43:37,725 - DropDownButton -INFO - Driver intialized
+2020-08-04 19:46:28,503 - DropDownButton -INFO - Driver intialized
+2020-08-04 19:47:52,386 - DropDownButton -INFO - Driver intialized
+2020-08-04 19:49:00,819 - DropDownButton -INFO - Driver intialized
+2020-08-04 19:49:41,534 - DropDownButton -INFO - Driver intialized
+2020-08-04 19:51:36,055 - DropDownButton -INFO - Driver intialized
+2020-08-04 19:54:25,194 - DropDownButton -INFO - Driver intialized
+2020-08-04 19:56:27,347 - DropDownButton -INFO - Driver intialized
+2020-08-04 19:57:52,517 - DropDownButton -INFO - Driver intialized
+2020-08-04 20:01:49,890 - DropDownButton -INFO - Driver intialized
+2020-08-04 20:03:56,315 - DropDownButton -INFO - Driver intialized
+2020-08-04 20:04:51,098 - DropDownButton -INFO - Driver intialized
+2020-08-04 20:06:22,878 - DropDownButton -INFO - Driver intialized
+2020-08-04 20:13:59,303 - DropDownButton -INFO - Driver intialized
+2020-08-04 20:23:16,198 - DropDownButton -INFO - Driver intialized
+2020-08-04 20:24:31,110 - DropDownButton -INFO - Driver intialized
+2020-08-04 20:34:58,241 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:36:24,063 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:38:28,241 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:39:46,611 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 20:40:58,615 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 20:46:28,021 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:50:53,458 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:52:49,480 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:53:27,924 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:56:02,227 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:56:42,391 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 20:59:27,191 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 21:03:24,708 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 21:04:06,514 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 21:05:50,894 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 21:13:45,563 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 21:15:48,732 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 21:18:13,123 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 21:26:19,803 - HandleBootStrapWindow -INFO - Driver intialized
+2020-08-04 21:27:41,061 - HandleBootStrapWindowPopupindifferentFrame -INFO - Driver intialized
+2020-08-04 23:15:08,156 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 23:17:37,206 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 23:18:18,363 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 23:55:55,789 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 23:58:26,341 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 23:59:02,870 - Switching Between Iframes -INFO - Driver intialized
+2020-08-04 23:59:53,677 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:04:57,857 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:10:21,990 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:15:24,830 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:20:32,290 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:21:07,292 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:21:42,715 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:23:08,947 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:26:05,058 - Switching Between Iframes -INFO - Driver intialized
+2020-08-05 00:26:16,538 - Switching Between Iframes -INFO - alert box accepedclicked: copy
+2020-08-05 00:33:20,341 - Double Click properties -INFO - Driver intialized
+2020-08-05 00:34:24,282 - Double Click properties -INFO - Driver intialized
+2020-08-05 00:35:54,629 - Double Click properties -INFO - Driver intialized
+2020-08-05 00:41:05,606 - Double Click properties -INFO - Driver intialized
+2020-08-05 00:42:34,887 - Double Click properties -INFO - Driver intialized
+2020-08-06 20:04:38,465 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:04:54,470 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:05:12,844 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:07:30,881 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:07:41,325 - Switching Between Iframes -INFO - Data is Valid  Details:Username:Admin password : Fuckoff
+2020-08-06 20:07:51,094 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:08:06,953 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo123
+2020-08-06 20:08:15,325 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:08:22,222 - Switching Between Iframes -INFO - Data is Valid  Details:Username:Admin password : Fuckoff
+2020-08-06 20:11:35,917 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:11:50,611 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:12:00,313 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo123
+2020-08-06 20:12:10,245 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:16:02,010 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:16:16,800 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 20:16:28,902 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo123
+2020-08-06 20:16:39,609 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 21:14:59,110 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 21:15:12,782 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 21:15:23,193 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo123
+2020-08-06 21:15:34,042 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:49:08,903 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:49:26,806 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:49:37,699 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo1235
+2020-08-06 23:49:49,273 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:49:56,942 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo1234
+2020-08-06 23:50:07,845 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:50:16,861 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo12345
+2020-08-06 23:50:27,829 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:50:45,116 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo123
+2020-08-06 23:54:29,702 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:54:48,210 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:54:55,860 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo1235
+2020-08-06 23:55:06,606 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:55:13,822 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo1234
+2020-08-06 23:55:26,498 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:55:34,818 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo12345
+2020-08-06 23:55:45,228 - Switching Between Iframes -INFO - Driver intialized
+2020-08-06 23:55:57,392 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo123
+2020-08-07 00:00:00,524 - Switching Between Iframes -INFO - Driver intialized
+2020-08-07 00:00:25,116 - Switching Between Iframes -INFO - Driver intialized
+2020-08-07 00:00:46,385 - Switching Between Iframes -INFO - Driver intialized
+2020-08-07 00:01:03,812 - Switching Between Iframes -INFO - Driver intialized
+2020-08-07 00:01:23,540 - Switching Between Iframes -INFO - Driver intialized
+2020-08-07 00:01:32,561 - Switching Between Iframes -INFO - Data is Valid  Details:Username:admin password : demo123
+2020-08-08 01:23:35,244 - ScreenShot -INFO - Driver intialized
+2020-08-08 01:23:44,163 - ScreenShot -INFO - Taking ScreenShot
+2020-08-09 22:59:03,089 - KeyBoardEvents -INFO - Driver intialized
+2020-08-09 23:16:32,632 - KeyBoardEvents -INFO - Driver intialized
+2020-08-09 23:18:38,820 - KeyBoardEvents -INFO - Driver intialized
+2020-08-09 23:19:23,164 - KeyBoardEvents -INFO - Driver intialized
+2020-08-09 23:20:36,676 - KeyBoardEvents -INFO - Driver intialized
+2020-08-09 23:20:50,754 - KeyBoardEvents -INFO - value is ENTER
+2020-08-09 23:29:41,463 - Seleniumwithoutsendkeys -INFO - Driver intialized
+2020-08-09 23:30:46,470 - Seleniumwithoutsendkeys -INFO - Driver intialized
+2020-08-09 23:34:04,140 - Seleniumwithoutsendkeys -INFO - Driver intialized
+2020-08-10 03:01:15,772 - Broken Links -INFO - Driver intialized
+2020-08-10 03:11:21,204 - Broken Links -INFO - Driver intialized
+2020-08-10 03:12:16,906 - Broken Links -INFO - Driver intialized
+2020-08-10 03:40:21,264 - Broken Links -INFO - Driver intialized
+2020-08-10 03:51:35,641 - Handle Hidden Elements -INFO - Driver intialized
+2020-08-10 04:19:06,059 - WebTableHandle -INFO - Driver intialized
+2020-08-10 04:21:50,271 - WebTableHandle -INFO - Driver intialized
+2020-08-10 04:22:48,447 - WebTableHandle -INFO - Driver intialized
+2020-08-10 04:24:21,973 - WebTableHandle -INFO - Driver intialized
+2020-08-10 04:33:57,427 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-10 04:35:44,601 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-10 04:40:14,744 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-10 04:41:11,304 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-10 04:41:54,150 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-10 04:42:47,280 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-10 04:45:43,036 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-10 04:52:29,680 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-10 04:53:19,915 - Drag and Drop Demo -INFO - Driver intialized
+2020-08-11 02:09:43,369 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:11:15,766 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:13:50,629 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:16:44,803 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:19:45,381 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:22:40,176 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:24:35,047 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:28:18,776 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:29:52,575 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:31:16,021 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:32:41,435 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:34:31,709 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:38:41,940 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:42:47,017 - Uploading file using AUTOIT -INFO - Driver intialized
+2020-08-11 02:47:26,567 - Uploading file using AUTOIT -INFO - Driver intialized
